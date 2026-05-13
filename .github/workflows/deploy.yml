@@ -15,4 +15,4 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           projectName: weylandai-com
           directory: src
-          productionBranch: main
+          branch: main
